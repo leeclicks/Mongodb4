@@ -14,10 +14,13 @@ Replica Set Deployment Tutorials  副本集部署
 一、Download and installation 环境准备及安装包下载
 
 1、配置三台linux，并相互ping通，且联网
+
          hostname: mg1  192.168.31.21:27017
          hostname: mg2  192.168.31.22:27017
          hostname: mg2  192.168.31.23:27017
+         
 2、下载MongoDB安装包
+
       https://www.mongodb.com/download-center/community
 
 3、在三台服务器上创建文件夹并上传安装包
