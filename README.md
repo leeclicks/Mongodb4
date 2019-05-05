@@ -17,7 +17,7 @@ Replica Set Deployment Tutorials  副本集部署
 
          hostname: mg1  192.168.31.21:27017
          hostname: mg2  192.168.31.22:27017
-         hostname: mg2  192.168.31.23:27017
+         hostname: mg3  192.168.31.23:27017
          
 2、下载MongoDB安装包
 
